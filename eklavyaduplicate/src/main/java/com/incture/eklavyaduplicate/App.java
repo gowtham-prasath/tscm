@@ -11,5 +11,8 @@ public class App
         System.out.println( "Hello World!" );
         Mavenprojectclass1.print();
     }
-    
+    private void syserr() {
+		// TODO Auto-generated method stub
+
+	}
 }
